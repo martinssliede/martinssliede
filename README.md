@@ -1,4 +1,4 @@
-
+#Constantly learning and exploring new technologies, my GitHub showcases various Java projects that demonstrate my skills and dedication to software development.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martinssliede) 
 
