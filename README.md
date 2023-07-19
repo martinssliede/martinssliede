@@ -1,16 +1,14 @@
-### Hi there 👋
+🌐 Socials:
 
-<!--
-**martinssliede/martinssliede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS3 HTML5 Java JavaScript TypeScript NodeJS Spring MySQL Docker
+
+📊 GitHub Stats:
+
+
+
+
+
